@@ -12,8 +12,8 @@
     margin-top: 1px;
     margin-bottom: 5%;
     /* height: 64%; */
-    width: 62%;
-    margin-left: 10%;
+    width: 70%;
+    margin-left: 8%;
     /* background-image: url(img.jpg); */
     background-color: #1e2f2f;
     border: 1 px solid black;
@@ -44,18 +44,16 @@ h1{
     font-weight: 900;
 }
 #date{
+    font-size: 20px;
     color: rgb(255 255 255);
-    font-size: 16px;
-    text-align: center;
-    font-style: italic;
-    line-height: 25px;
-    word-spacing: 4px;
 }
 #Dspt{
     color: rgb(255 255 255);
     font-size: 16px;
     text-align: center;
     font-style: italic;
+    line-height: 25px;
+    word-spacing: 4px;
 }
 .last{
     color: white;
