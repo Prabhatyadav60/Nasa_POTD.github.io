@@ -44,8 +44,12 @@ h1{
     font-weight: 900;
 }
 #date{
-    font-size: 20px;
     color: rgb(255 255 255);
+    font-size: 16px;
+    text-align: center;
+    font-style: italic;
+    line-height: 25px;
+    word-spacing: 4px;
 }
 #Dspt{
     color: rgb(255 255 255);
