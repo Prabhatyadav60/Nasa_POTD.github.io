@@ -9,7 +9,7 @@ const nasaPotd=async ()=>{
     let response=await fetch(url);
     let data=await response.json();
     console.log(data);
-    h.innerHTML=data.title;
+    h.innerHTML=data.title+ h.innerHTML;
     p.innerHTML=data.explanation;
     img.src=data.url;
     date.innerHTML= date.innerHTML+ data.date;

@@ -15,7 +15,7 @@
     width: 62%;
     margin-left: 12%;
     /* background-image: url(img.jpg); */
-    /* background-color: aqua; */
+    background-color: #1e2f2f;
     border: 1 px solid black;
     border-radius: 5%;
     padding: 37px;
@@ -32,10 +32,10 @@
 
 }
 h{
-    text-decoration: underline;
-    color: rgb(255 255 255);
-    font-size: 23px;
-    font-family: sans-serif;
+      /* text-decoration: underline; */
+      color: rgb(255 255 255);
+      font-size: 21px;
+      font-family: monospace;
 }
 h1{
     color: rgb(228 226 226);
@@ -51,6 +51,7 @@ h1{
     color: rgb(255 255 255);
     font-size: 16px;
     text-align: center;
+    font-style: italic;
 }
 .last{
     color: white;
